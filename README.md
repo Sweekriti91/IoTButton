@@ -21,6 +21,10 @@ You’ll need a few components:
 
 *   some [female to male jumper wires](https://www.adafruit.com/product/3633)
 
+*   a couple of [resistors](https://www.adafruit.com/product/4293)
+
+*   a [tactile switch](https://www.adafruit.com/product/367)
+
 *   Micro USB cable to connect Raspberry Pi to power source
 
 
@@ -79,7 +83,7 @@ For this section, we are combining the steps in 2 different MS Doc tutorials. We
 
 And for the last fun bit, lets parse the IoT Message JSON value to Tweet our specific message by using the doc [here](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-perform-data-operations#parse-json-action).
 
-Wahoo! If you made it this far, you are now tweeting via the button on your breadboarc connected to a Smart Raspberry Pi, and all of it with the Power of .NET! 
+Wahoo! If you made it this far, you are now tweeting via the button on your breadboard connected to a Smart Raspberry Pi, and all of it with the Power of .NET! 
 
 
 ## Additional resources
