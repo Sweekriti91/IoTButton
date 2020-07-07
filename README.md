@@ -68,7 +68,7 @@ Excellent, at this point, we can connect our IoT device to the great wild intern
 
 3. Update the ***DeviceConnectionString*** and ***DeviceID*** from values in Step 2 in [Program.cs](https://github.com/Sweekriti91/IoTButton/blob/main/Program.cs#L14)
 
-4. Setup Azure IoT Tools for VS Code to monitor End Points for messages. This is super easy to setup by following the [documentation](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-vscode-iot-toolkit-cloud-device-messaging)
+4. Setup Azure IoT Tools for VS Code to monitor the default IoT Hub Device end point for messages. This is super easy to setup by following the [documentation](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-vscode-iot-toolkit-cloud-device-messaging)
 
 Congratulations! At this point, you can deploy the app to your Raspberry Pi, press the button and you will see messages appear in the VSCode output window. 
 
