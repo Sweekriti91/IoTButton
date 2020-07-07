@@ -38,8 +38,8 @@
                 "pipeProgram": "C:\\Program Files\\PuTTY\\plink.exe",
                 "pipeArgs": [
                     "-pw",
-                    "scooby",
-                    "pi@192.168.42.20"
+                    "<SSH PASSWORD>",
+                    "<PI IP ADDRESS>"
                 ],
                 "debuggerPath": "/home/pi/vsdbg/vsdbg"
             }
