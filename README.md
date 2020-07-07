@@ -3,6 +3,12 @@
 This repo is the sample code presented as part of the Reactor Twitch Stream on the Microsoft Developer Twitch account. This creates a smart IoT Button, which when pressed lights up an LED locally and sends a Twitter message via [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) and [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview). 
 
 
+## Coming soon
+
+If you have come here from the Twitch Stream, come back to find the link for the direct link to the video here! 
+
+Bookmark, Subscribe the [Reactor YouTube channel](https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA) to get the notification for this video and other amazing content!​
+
 ## Connect the components 
 
 You’ll need a few components:
