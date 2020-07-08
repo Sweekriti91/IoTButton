@@ -5,7 +5,9 @@ This repo is the sample code presented as part of the Reactor Twitch Stream on t
 
 ## Coming soon
 
-If you have come here from the Twitch Stream, come back to find the link for the direct link to the video here! 
+Direct link to the Twitch Stream [here](https://www.twitch.tv/videos/673016689)!
+
+YouTube link coming soon! 
 
 Bookmark, Subscribe the [Reactor YouTube channel](https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA) to get the notification for this video and other amazing content!​
 
